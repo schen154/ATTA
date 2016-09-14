@@ -4,3 +4,9 @@ c:\users\schen\documents\visual studio 2015\Projects\ConsoleApplication1\Console
 c:\users\schen\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 c:\users\schen\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 c:\users\schen\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\schen\Documents\Visual Studio 2015\Projects\ATTA\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\schen\Documents\Visual Studio 2015\Projects\ATTA\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\schen\Documents\Visual Studio 2015\Projects\ATTA\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\schen\Documents\Visual Studio 2015\Projects\ATTA\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\schen\Documents\Visual Studio 2015\Projects\ATTA\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\schen\Documents\Visual Studio 2015\Projects\ATTA\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
